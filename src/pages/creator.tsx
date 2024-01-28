@@ -1,7 +1,7 @@
 export default function Creator() {
   return (
     <>
-      <h1>hi</h1>
+      <h1>hello</h1>
     </>
   )
 } 
