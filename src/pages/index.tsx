@@ -60,6 +60,15 @@ export default function Home() {
           createdAt: new Date(),
           updatedAt: new Date()
         }} />
+        <Card post={{
+          id: "3fd9270f-5171-4e39-ad3e-c4f5a8c52802",
+          title: "Murid tidak masuk dikira diare, ternyata homo! Guru dan teman kecewa..",
+          description: "Seorang Siswa diizinkan oleh guru untuk tidak masuk selama bertahun tahun diakibatkan sakit diare, setelah guru mencurigai dan melakukan investigasi ditemukan bahwa murid tersebut Homo! semua guru dan teman dekatnya Kecewa ",
+          image: "/assets/yesaya.jpg",
+          createdById: "clrxknhgc0000tjpzffoglya2",
+          createdAt: new Date(),
+          updatedAt: new Date()
+        }} />
       </div>
 
     </>
